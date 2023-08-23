@@ -15,9 +15,9 @@ Since alpha waves will appear when people are in the resting stage, subjects can
 - Direction of movement of the car after two EEG recordings
   | Movement direction | subject's action | action_code |
   | -------- | -------- | -------- |
-  | 前進     | eyes opened --> closed     | 0，1     |
-  | 右轉     | eyes opened --> opened     | 0，0     |
-  | 左轉     | eyes closed --> opened     | 1，0     |
+  | Forward     | eyes opened --> closed     | 0，1     |
+  | Turn right     | eyes opened --> opened     | 0，0     |
+  | Turn left     | eyes closed --> opened     | 1，0     |
 
 ## How to run
 - set up EEG cap and Arduino car
